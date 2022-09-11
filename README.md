@@ -3,8 +3,8 @@
 Is built using JavaScript, Html, Css, faker, Webpack
 
 Steps to start
-### clone, install and npm start https://github.com/Amol-Bhole/module-federation-products
-### clone, install and npm start https://github.com/Amol-Bhole/module-federation-cart
+### clone, npm install and npm start https://github.com/Amol-Bhole/module-federation-products
+### clone, npm install and npm start https://github.com/Amol-Bhole/module-federation-cart
 ### npm install
 ### npm start
 
@@ -31,4 +31,4 @@ Mounted the Carts and Products sub app using there respective mount functions, b
 
 Once we run Container repo, output will be as belows
 
-https://github.com/Amol-Bhole/module-federation-container/blob/main/src/assets/image.jpg?raw=true
+![alt text](https://github.com/Amol-Bhole/module-federation-container/blob/main/src/assets/container_output.png?raw=true)
