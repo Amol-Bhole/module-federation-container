@@ -2,11 +2,11 @@
 
 Is built using JavaScript, Html, Css, faker, Webpack
 
-Steps to start
-### clone, npm install and npm start https://github.com/Amol-Bhole/module-federation-products
-### clone, npm install and npm start https://github.com/Amol-Bhole/module-federation-cart
-### npm install
-### npm start
+Steps to start.     
+git clone, npm install and npm start repo https://github.com/Amol-Bhole/module-federation-products.     
+git clone, npm install and npm start repo https://github.com/Amol-Bhole/module-federation-cart.     
+npm install.    
+npm start.       
 
 ## webpack.config.js
 
