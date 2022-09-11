@@ -1,8 +1,12 @@
 # Microfrontends Container
 
 Is built using JavaScript, Html, Css, faker, Webpack
-npm install
-npm start
+
+Steps to start
+### clone, install and npm start https://github.com/Amol-Bhole/module-federation-products
+### clone, install and npm start https://github.com/Amol-Bhole/module-federation-cart
+### npm install
+### npm start
 
 ## webpack.config.js
 
@@ -22,14 +26,6 @@ Is dynamically importing bootstrap.js to allow webpack's ModuleFedrationPlugin t
 mount function is imported from productsMount and cartsMount SubApps (configuered using Webpack's ModuleFedrationPlugin)
 
 Mounted the Carts and Products sub app using there respective mount functions, by passing element (from container) and containersGobalContext
-
-# Products SubApp repo
-
-https://github.com/Amol-Bhole/module-federation-products
-
-# Cart SubApp repo
-
-https://github.com/Amol-Bhole/module-federation-cart
 
 # Container Microfrontends Output
 
